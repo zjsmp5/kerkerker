@@ -89,7 +89,7 @@ export function Navbar({ scrolled, onSearchOpen }: NavbarProps) {
                 alt="logo"
               />
               <span className="text-red-600 text-xl md:text-2xl lg:text-3xl font-bold tracking-tight hover:text-red-500 transition-colors">
-                壳儿
+                小飞机
               </span>
             </Link>
 
